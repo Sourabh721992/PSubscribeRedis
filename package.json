@@ -1,0 +1,22 @@
+{
+  "name": "psubscriberedis",
+  "version": "1.0.0",
+  "description": "The app will psubscribe to redis channels to receive the data via Pub/Sub model.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sourabh721992/PSubscribeRedis.git"
+  },
+  "author": "SK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sourabh721992/PSubscribeRedis/issues"
+  },
+  "homepage": "https://github.com/Sourabh721992/PSubscribeRedis#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
